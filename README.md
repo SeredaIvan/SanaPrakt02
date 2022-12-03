@@ -12,3 +12,5 @@
 - [x] GitHub
 - [ ] GitLab
 - [ ] Bitbucket
+
+**Виконав** Середа Іван
